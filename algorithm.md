@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Algorithm
+title: /algorithm
+permalink: /algorithm
 ---
 
 # Algorithm
