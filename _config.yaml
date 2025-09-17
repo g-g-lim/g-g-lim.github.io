@@ -11,7 +11,7 @@ header_pages:
 
 style: dark
 
-footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
+footer: 'copyright &copy; 1994 g-g-lim'
 
 # Build settings
 markdown: kramdown
