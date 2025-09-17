@@ -1,14 +1,18 @@
-remote_theme: b2a3e8/jekyll-theme-console
-plugins:
-  - jekyll-seo-tag
+title: 'g-g-lim.github.io'
+description: "hello world"
+baseurl: "/"
+url: "https://g-g-lim.github.io"
 
 header_pages:
   - index.md
+  - peter.md
   - about.md
   - contact.md
 
-style: dark # dark (default), light, hacker, or nord
-listen_for_clients_preferred_style: true # false (default) or true
+style: dark
 
-footer: "Copyright &copy; 1994 g-g-lim"
-disable_google_fonts: false
+footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
+
+# Build settings
+markdown: kramdown
+remote_theme: b2a3e8/jekyll-theme-console
