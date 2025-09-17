@@ -5,9 +5,10 @@ plugins:
 header_pages:
   - index.md
   - about.md
+  - contact.md
 
 style: dark # dark (default), light, hacker, or nord
 listen_for_clients_preferred_style: true # false (default) or true
 
-footer: "Copyright &copy; 2022 g-g-lim"
+footer: "Copyright &copy; 1994 g-g-lim"
 disable_google_fonts: false
