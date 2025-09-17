@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Programmers
+title: /programmers
 permalink: /programmers
 ---
 

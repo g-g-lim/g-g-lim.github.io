@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Programmers Level2
+title: /level2
 permalink: /programmers-level2
 ---
 

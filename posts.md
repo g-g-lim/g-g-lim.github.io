@@ -1,6 +1,6 @@
 ---
 title: /posts
-layout: default
+layout: page
 permalink: /posts
 ---
 
