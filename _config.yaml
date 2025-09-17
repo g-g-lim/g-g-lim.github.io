@@ -8,10 +8,17 @@ header_pages:
   - posts.md
   - about.md
   - contact.md
+  - algorithm.md
 
 style: dark
 
 footer: 'copyright &copy; 1994 g-g-lim'
+
+# Include custom directories and files
+include:
+  - code/
+  - assets/
+  - downloads/
 
 # Build settings
 markdown: kramdown
