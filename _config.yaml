@@ -1,1 +1,13 @@
-theme: jekyll-theme-minimal
+remote_theme: b2a3e8/jekyll-theme-console
+plugins:
+  - jekyll-seo-tag
+
+header_pages:
+  - index.md
+  - about.md
+
+style: dark # dark (default), light, hacker, or nord
+listen_for_clients_preferred_style: true # false (default) or true
+
+footer: "Copyright &copy; 2022 g-g-lim"
+disable_google_fonts: false
