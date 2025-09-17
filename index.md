@@ -4,4 +4,4 @@ layout: home
 permalink: /
 ---
 
-# hello world
+# home
