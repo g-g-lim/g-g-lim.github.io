@@ -7,3 +7,4 @@ permalink: /algorithm
 # Algorithm
 
 - [programmers](/programmers)
+- [leetcode](/leetcode)
