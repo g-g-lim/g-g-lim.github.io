@@ -6,4 +6,4 @@ permalink: /graph
 
 # Graph
 
-- [daikstra](/daikstra)
+- [dijkstra](/dijkstra)
