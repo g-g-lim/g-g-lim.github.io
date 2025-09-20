@@ -8,3 +8,4 @@ permalink: /algorithm
 
 - [programmers](/programmers)
 - [leetcode](/leetcode)
+- [graph](/graph)
