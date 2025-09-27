@@ -6,7 +6,7 @@ permalink: /2xN타일링찾기
 
 # 2xN타일링찾기
 
-<img src="/assets/images/2xN타일링찾기.png" width="100%" alt="2xN타일링찾기" />
+<img src="/assets/images/programmers/2xN타일링찾기.png" width="100%" alt="2xN타일링찾기" />
 
 ```javascript
 function solution(n) {

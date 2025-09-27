@@ -6,8 +6,8 @@ permalink: /합승택시(fail)
 
 # 합승택시(fail)
 
-<img src="/assets/images/합승택시(fail).png" width="100%" alt="합승택시(fail)" />
-<img src="/assets/images/합승택시(fail)-1.png" width="100%" alt="합승택시(fail)" />
+<img src="/assets/images/programmers/합승택시(fail).png" width="100%" alt="합승택시(fail)" />
+<img src="/assets/images/programmers/합승택시(fail)-1.png" width="100%" alt="합승택시(fail)" />
 
 
 ```javascript

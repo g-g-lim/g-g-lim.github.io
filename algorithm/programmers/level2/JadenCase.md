@@ -6,7 +6,7 @@ permalink: /JadenCase
 
 # JadenCase
 
-<img src="/assets/images/JadenCase.png" width="100%" alt="JadenCase" />
+<img src="/assets/images/programmers/JadenCase.png" width="100%" alt="JadenCase" />
 
 ```javascript
 function solution(s) {
