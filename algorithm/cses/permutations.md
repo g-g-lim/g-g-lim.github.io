@@ -9,8 +9,6 @@ permalink: /permutations
 <img src="/assets/images/cses/permutations.png" width="100%" alt="permutations" />
 
 ```python
-n = int(input())
-
 def solution(n):
     if n == 1:
         return 1
@@ -28,8 +26,6 @@ def solution(n):
         else:
             arr.append(i)
     return " ".join(map(str, arr))
-
-print(solution(n))
 ```
 
 ###### https://cses.fi/problemset/task/1070
