@@ -6,4 +6,4 @@ permalink: /cses
 
 # CSES problem set
 
-- [permutations](/permutaions)
+- [permutations](/permutations)
