@@ -32,4 +32,4 @@ def solution(n):
 print(solution(n))
 ```
 
-- https://cses.fi/problemset/task/1070
+###### https://cses.fi/problemset/task/1070
