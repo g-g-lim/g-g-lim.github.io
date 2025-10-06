@@ -4,9 +4,8 @@ layout: page
 permalink: /cses
 ---
 
-# CSES problem set
+# [CSES problem set](https://cses.fi/problemset/)
 
-https://cses.fi/problemset/
 
 - [permutations](/permutations)
 - [number_spiral](/number_spiral)
