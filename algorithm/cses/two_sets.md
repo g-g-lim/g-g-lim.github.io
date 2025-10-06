@@ -10,8 +10,6 @@ permalink: /two_sets
 
 
 ```python
-n = int(input())
-
 def solution(n):
     s = sum(range(1, n + 1))
     group1 = []

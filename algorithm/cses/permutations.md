@@ -27,5 +27,3 @@ def solution(n):
             arr.append(i)
     return " ".join(map(str, arr))
 ```
-
-###### https://cses.fi/problemset/task/1070

@@ -10,9 +10,6 @@ permalink: /number_spiral
 
 
 ```python
-n = int(input())
-arr = [map(int, input().split(" ")) for i in range(n)]
-
 def solution(idx_list):
     for x, y in idx_list:
         max_idx = max(x, y)
@@ -32,8 +29,4 @@ def solution(idx_list):
                 print(diag_value + (diag[0] - x))
             else:
                 print(diag_value - (diag[1] - y))
-
-solution(arr)
 ```
-
-###### https://cses.fi/problemset/task/1071

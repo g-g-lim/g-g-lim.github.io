@@ -13,8 +13,6 @@ permalink: /two_knights
 <img src="/assets/images/cses/two-knights-4.png" width="100%" alt="two_knights" />
 
 ```python
-k = int(input())
-
 def solution(k):
     answer = [0, 6, 28, 96]
     cnt = {2: 4, 3: 8, 4: 4, 6: 0, 8: 0}
