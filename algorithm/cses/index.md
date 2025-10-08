@@ -12,3 +12,4 @@ permalink: /cses
 - [two_knights](/two_knights)
 - [trailing_zeros](/trailing_zeros)
 - [coin_piles](/coin_piles)
+- [palindrome_reorder](/palindrome_reorder)
