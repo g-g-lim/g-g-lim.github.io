@@ -13,3 +13,4 @@ permalink: /cses
 - [trailing_zeros](/trailing_zeros)
 - [coin_piles](/coin_piles)
 - [palindrome_reorder](/palindrome_reorder)
+- [grey_code](/grey_code)
