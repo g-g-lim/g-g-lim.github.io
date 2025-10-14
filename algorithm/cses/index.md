@@ -14,3 +14,4 @@ permalink: /cses
 - [coin_piles](/coin_piles)
 - [palindrome_reorder](/palindrome_reorder)
 - [grey_code](/grey_code)
+- [max_grid_construction](/max_grid_construction)
