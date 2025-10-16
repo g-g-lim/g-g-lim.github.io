@@ -16,3 +16,4 @@ permalink: /cses
 - [grey_code](/grey_code)
 - [max_grid_construction](/max_grid_construction)
 - [knight_moves_grid](/knight_moves_grid)
+- [grid_coloring](/grid_coloring)
