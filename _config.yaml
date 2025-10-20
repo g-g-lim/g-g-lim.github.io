@@ -5,7 +5,6 @@ url: "https://g-g-lim.github.io"
 
 header_pages:
   - index.md
-  - posts.md
   - about.md
   - contact.md
   - algorithm/index.md
