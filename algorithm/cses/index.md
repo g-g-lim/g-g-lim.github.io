@@ -18,3 +18,5 @@ permalink: /cses
 - [knight_moves_grid](/knight_moves_grid)
 - [grid_coloring](/grid_coloring)
 - [string_reorder](/string_reorder)
+- [ferris_wheel](/ferris_wheel)
+- [apartments](/apartments)
