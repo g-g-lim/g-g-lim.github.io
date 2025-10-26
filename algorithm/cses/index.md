@@ -21,3 +21,5 @@ permalink: /cses
 - [concert_tickets](/concert_tickets)
 - [movie_festival](/movie_festival)
 - [restaurant_customer](/restaurant_customer)
+- [ferris_wheel](/ferris_wheel)
+- [apartments](/apartments)
